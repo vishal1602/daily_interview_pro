@@ -18,5 +18,5 @@ print(Solution().getRange(arr, x))
 
 
 arr = [1, 2, 2, 2, 2, 3, 4, 7, 8, 8] 
-x = 9
+x = 3
 print(Solution().getRange(arr, x))
